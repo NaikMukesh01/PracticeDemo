@@ -30,6 +30,7 @@ public class Addsubmul {
 	 int addition=mult.add(12, 11);
 	 int substraction=mult.sub(11, 5);
 	 mult.mul(addition, substraction);
+	 System.out.println("Mukesh");
 	 
 }
  
